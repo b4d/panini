@@ -1,0 +1,621 @@
+0 - Panini Commemorative Stamp
+1 - Glitter - Trophy
+2 - Glitter - Official Mascot
+3 - Glitter - Official Emblem
+4 - Glitter - Official Logo
+5 - HAMBURG - Stadium Sticker
+6 - HANNOVER - Stadium Sticker
+7 - BERLIN - Stadium Sticker
+8 - GELSENKIRCHEN - Stadium Sticker
+9 - DORTMUND - Stadium Sticker
+10 - LEIPZIG - Stadium Sticker
+11 - KOLN - Stadium Sticker
+12 - FRANKFURT - Stadium Sticker
+13 - KAISERSLAUTERN - Stadium Sticker
+14 - NURNBERG - Stadium Sticker
+15 - STUTTGART - Stadium Sticker
+16 - MUNCHEN - Stadium Sticker
+17 - Germany - Team Sticker
+18 - Germany - Glitter - Badge
+19 - Oliver Kahn [Germany] - Single Player Sticker
+20 - Arne Friedrich [Germany] - Single Player Sticker
+21 - Robert Huth [Germany] - Single Player Sticker
+22 - Philipp Lahm [Germany] - Single Player Sticker
+23 - Per Mertesacker [Germany] - Single Player Sticker
+24 - Patrick Owomoyela [Germany] - Single Player Sticker
+25 - Michael Ballack [Germany] - Single Player Sticker
+26 - Tim Borowski [Germany] - Single Player Sticker
+27 - Sebastian Deisler [Germany] - Single Player Sticker
+28 - Fabian Ernst [Germany] - Single Player Sticker
+29 - Torsten Frings [Germany] - Single Player Sticker
+30 - Bernd Schneider [Germany] - Single Player Sticker
+31 - Bastian Schweinsteiger [Germany] - Single Player Sticker
+32 - Gerald Asamoah [Germany] - Single Player Sticker
+33 - Miroslav Klose [Germany] - Single Player Sticker
+34 - Kevin Kuranyi [Germany] - Single Player Sticker
+35 - Lukas Podolski [Germany] - Single Player Sticker
+36 - Costa Rica - Team Sticker
+37 - Costa Rica - Glitter - Badge
+38 - Jose Francisco Porras [Costa Rica] - Single Player Sticker
+39 - Jervis Drummond [Costa Rica] - Single Player Sticker
+40 - Leonardo Gonzalez [Costa Rica] - Single Player Sticker
+41 - Luis Marin [Costa Rica] - Single Player Sticker
+42 - Gilberto Martinez [Costa Rica] - Single Player Sticker
+43 - Douglas Sequeira [Costa Rica] - Single Player Sticker
+44 - Harold Wallace [Costa Rica] - Single Player Sticker
+45 - Christian BolaÃ±os [Costa Rica] - Single Player Sticker
+46 - Steven Bryce [Costa Rica] - Single Player Sticker
+47 - Walter Centeno [Costa Rica] - Single Player Sticker
+48 - Carlos Hernandez [Costa Rica] - Single Player Sticker
+49 - Alonso Solis [Costa Rica] - Single Player Sticker
+50 - Jafet Soto [Costa Rica] - Single Player Sticker
+51 - Ronald Gomez [Costa Rica] - Single Player Sticker
+52 - Alvaro Saborio [Costa Rica] - Single Player Sticker
+53 - Paulo Cesar Wanchope [Costa Rica] - Single Player Sticker
+54 - Alvaro Mesen [Costa Rica] - Single Player Sticker
+55 - Poland - Team Sticker
+56 - Poland - Glitter - Badge
+57 - Artur Boruc [Poland] - Single Player Sticker
+58 - Jacek Bak [Poland] - Single Player Sticker
+59 - Marcin Baszczynski [Poland] - Single Player Sticker
+60 - Tomasz Klos [Poland] - Single Player Sticker
+61 - Tomasz Rzasa [Poland] - Single Player Sticker
+62 - Michal Zewlakow [Poland] - Single Player Sticker
+63 - Kamil Kosowski [Poland] - Single Player Sticker
+64 - Jacek Krzynowek [Poland] - Single Player Sticker
+65 - Sebastian Mila [Poland] - Single Player Sticker
+66 - Arek Radomski [Poland] - Single Player Sticker
+67 - Euzebiusz Smolarek [Poland] - Single Player Sticker
+68 - Radoslaw Sobolewski [Poland] - Single Player Sticker
+69 - Miroslaw Szymkowiak [Poland] - Single Player Sticker
+70 - Tomasz Frankowski [Poland] - Single Player Sticker
+71 - Grzegorz Rasiak [Poland] - Single Player Sticker
+72 - Maciej Zurawski [Poland] - Single Player Sticker
+73 - Jerzy Dudek [Poland] - Single Player Sticker
+74 - Ecuador - Team Sticker
+75 - Ecuador - Glitter - Badge
+76 - Christian Mora [Ecuador] - Single Player Sticker
+77 - Paul Ambrosi [Ecuador] - Single Player Sticker
+78 - Marlon Ayovi [Ecuador] - Single Player Sticker
+79 - Ulises De La Cruz [Ecuador] - Single Player Sticker
+80 - Giovanny Espinoza [Ecuador] - Single Player Sticker
+81 - Ivan Hurtado [Ecuador] - Single Player Sticker
+82 - Walter Ayovi [Ecuador] - Single Player Sticker
+83 - Christian Lara [Ecuador] - Single Player Sticker
+84 - Edison Mendez [Ecuador] - Single Player Sticker
+85 - Mario David Quiroz [Ecuador] - Single Player Sticker
+86 - Neicer Reasco [Ecuador] - Single Player Sticker
+87 - Edwin Tenorio [Ecuador] - Single Player Sticker
+88 - Luis Antonio Valencia [Ecuador] - Single Player Sticker
+89 - Agustin Delgado [Ecuador] - Single Player Sticker
+90 - Franklin Salas [Ecuador] - Single Player Sticker
+91 - Carlos Tenorio [Ecuador] - Single Player Sticker
+92 - Edwin Villafuerte [Ecuador] - Single Player Sticker
+93 - England - Team Sticker
+94 - England - Glitter - Badge
+95 - Paul Robinson [England] - Single Player Sticker
+96 - Sol Campbell [England] - Single Player Sticker
+97 - Jamie Carragher [England] - Single Player Sticker
+98 - Ashley Cole [England] - Single Player Sticker
+99 - Rio Ferdinand [England] - Single Player Sticker
+100 - Ledley King [England] - Single Player Sticker
+101 - Gary Neville [England] - Single Player Sticker
+102 - John Terry [England] - Single Player Sticker
+103 - David Beckham [England] - Single Player Sticker
+104 - Joe Cole [England] - Single Player Sticker
+105 - Steven Gerrard [England] - Single Player Sticker
+106 - Frank Lampard [England] - Single Player Sticker
+107 - Shaun Wright-Phillips [England] - Single Player Sticker
+108 - Peter Crouch [England] - Single Player Sticker
+109 - Jermain Defoe [England] - Single Player Sticker
+110 - Michael Owen [England] - Single Player Sticker
+111 - Wayne Rooney [England] - Single Player Sticker
+112 - Paraguay - Team Sticker
+113 - Paraguay - Glitter - Badge
+114 - Justo Villar [Paraguay] - Single Player Sticker
+115 - Julio Cesar Caceres [Paraguay] - Single Player Sticker
+116 - Denis Caniza [Paraguay] - Single Player Sticker
+117 - Paulo Da Silva [Paraguay] - Single Player Sticker
+118 - Carlos Gamarra [Paraguay] - Single Player Sticker
+119 - Jorge NuÃ±ez [Paraguay] - Single Player Sticker
+120 - Roberto AcuÃ±a [Paraguay] - Single Player Sticker
+121 - Edgar Barreto [Paraguay] - Single Player Sticker
+122 - Julio Dos Santos [Paraguay] - Single Player Sticker
+123 - Julio Cesar Enciso [Paraguay] - Single Player Sticker
+124 - Diego Gavilan [Paraguay] - Single Player Sticker
+125 - Carlos Humberto Paredes [Paraguay] - Single Player Sticker
+126 - Jose Cardozo [Paraguay] - Single Player Sticker
+127 - Salvador Cabanas [Paraguay] - Single Player Sticker
+128 - Nelson Cuevas [Paraguay] - Single Player Sticker
+129 - Roque Santa Cruz [Paraguay] - Single Player Sticker
+130 - Nelson Valdez [Paraguay] - Single Player Sticker
+131 - Trinidad & Tobago - Team Sticker
+132 - Trinidad & Tobago - Glitter - Badge
+133 - Kelvin Jack [Trinidad & Tobago] - Single Player Sticker
+134 - Marvin Andrews [Trinidad & Tobago] - Single Player Sticker
+135 - Avery John [Trinidad & Tobago] - Single Player Sticker
+136 - Ian Cox [Trinidad & Tobago] - Single Player Sticker
+137 - Dennis Lawrence [Trinidad & Tobago] - Single Player Sticker
+138 - Brent Sancho [Trinidad & Tobago] - Single Player Sticker
+139 - Christopher Birchall [Trinidad & Tobago] - Single Player Sticker
+140 - Carlos Edwards [Trinidad & Tobago] - Single Player Sticker
+141 - Kenwyne Jones [Trinidad & Tobago] - Single Player Sticker
+142 - Russell Latapy [Trinidad & Tobago] - Single Player Sticker
+143 - Silvio Spann [Trinidad & Tobago] - Single Player Sticker
+144 - Densill Theobald [Trinidad & Tobago] - Single Player Sticker
+145 - Cornell Glenn [Trinidad & Tobago] - Single Player Sticker
+146 - Jason Scotland [Trinidad & Tobago] - Single Player Sticker
+147 - Stern John [Trinidad & Tobago] - Single Player Sticker
+148 - Dwight Yorke [Trinidad & Tobago] - Single Player Sticker
+149 - Shaka Hislop [Trinidad & Tobago] - Single Player Sticker
+150 - Sweden - Team Sticker
+151 - Sweden - Glitter - Badge
+152 - Andreas Isaksson [Sweden] - Single Player Sticker
+153 - Christoffer Andersson [Sweden] - Single Player Sticker
+154 - Erik Edman [Sweden] - Single Player Sticker
+155 - Teddy Lucic [Sweden] - Single Player Sticker
+156 - Olof Mellberg [Sweden] - Single Player Sticker
+157 - Alexander Ã–stlund [Sweden] - Single Player Sticker
+158 - Niclas Alexandersson [Sweden] - Single Player Sticker
+159 - Kim KÃ¤llstrÃ¶m [Sweden] - Single Player Sticker
+160 - Tobias Linderoth [Sweden] - Single Player Sticker
+161 - Fredrik Ljungberg [Sweden] - Single Player Sticker
+162 - Anders Svensson [Sweden] - Single Player Sticker
+163 - Christian Wilhelmsson [Sweden] - Single Player Sticker
+164 - Johan Elmander [Sweden] - Single Player Sticker
+165 - Marcus AllbÃ¤ck [Sweden] - Single Player Sticker
+166 - Zlatan Ibrahimovic [Sweden] - Single Player Sticker
+167 - Mattias Jonson [Sweden] - Single Player Sticker
+168 - Henrik Larsson [Sweden] - Single Player Sticker
+169 - Argentina - Team Sticker
+170 - Argentina - Glitter - Badge
+171 - Roberto Carlos Abbondanzieri [Argentina] - Single Player Sticker
+172 - Roberto Fabian Ayala [Argentina] - Single Player Sticker
+173 - Fabricio Coloccini [Argentina] - Single Player Sticker
+174 - Ivan Gabriel Heinze [Argentina] - Single Player Sticker
+175 - Walter Adrian Samuel [Argentina] - Single Player Sticker
+176 - Javier Adelmar Zanetti [Argentina] - Single Player Sticker
+177 - Pablo Cesar Aimar [Argentina] - Single Player Sticker
+178 - Esteban Matias Cambiasso [Argentina] - Single Player Sticker
+179 - Andres Nicolas D'Alessandro [Argentina] - Single Player Sticker
+180 - Javier Alejandro Mascherano [Argentina] - Single Player Sticker
+181 - Juan Roman Riquelme [Argentina] - Single Player Sticker
+182 - Juan Pablo Sorin [Argentina] - Single Player Sticker
+183 - Juan Sebastian Veron [Argentina] - Single Player Sticker
+184 - Hernan Jorge Crespo [Argentina] - Single Player Sticker
+185 - Lionel Andres Messi [Argentina] - Single Player Sticker
+186 - Javier Pedro Saviola [Argentina] - Single Player Sticker
+187 - Carlos Alberto Tevez [Argentina] - Single Player Sticker
+188 - Ivory Coast - Team Sticker
+189 - Ivory Coast - Glitter - Badge
+190 - Jean-Jacques Tizie [Ivory Coast] - Single Player Sticker
+191 - Arthur Boka [Ivory Coast] - Single Player Sticker
+192 - Cyril Domoraud [Ivory Coast] - Single Player Sticker
+193 - Emmanuel Eboue [Ivory Coast] - Single Player Sticker
+194 - Blaise Kouassi [Ivory Coast] - Single Player Sticker
+195 - Kolo Toure [Ivory Coast] - Single Player Sticker
+196 - Marco Andre Zoro [Ivory Coast] - Single Player Sticker
+197 - Abdoulaye Djire [Ivory Coast] - Single Player Sticker
+198 - Bonaventure Kalou [Ivory Coast] - Single Player Sticker
+199 - Abdoulaye Meite [Ivory Coast] - Single Player Sticker
+200 - Siaka Tiene [Ivory Coast] - Single Player Sticker
+201 - Gilles Yapi Yapo [Ivory Coast] - Single Player Sticker
+202 - Didier Zokora [Ivory Coast] - Single Player Sticker
+203 - Kanga Akale [Ivory Coast] - Single Player Sticker
+204 - Aruna Dindane [Ivory Coast] - Single Player Sticker
+205 - Didier Drogba [Ivory Coast] - Single Player Sticker
+206 - Arouna Kone [Ivory Coast] - Single Player Sticker
+207 - Serbia and Montenegro - Team Sticker
+208 - Serbia and Montenegro - Glitter - Badge
+209 - Dragoslav Jevric [Serbia and Montenegro] - Single Player Sticker
+210 - Ivica Dragutinovic [Serbia and Montenegro] - Single Player Sticker
+211 - Goran Gavrancic [Serbia and Montenegro] - Single Player Sticker
+212 - Mladen Krstajic [Serbia and Montenegro] - Single Player Sticker
+213 - Nemanja Vidic [Serbia and Montenegro] - Single Player Sticker
+214 - Ognjen Koroman [Serbia and Montenegro] - Single Player Sticker
+215 - Predrag Djordjevic [Serbia and Montenegro] - Single Player Sticker
+216 - Igor Duljaj [Serbia and Montenegro] - Single Player Sticker
+217 - Sasa Ilic [Serbia and Montenegro] - Single Player Sticker
+218 - Dragan Mladenovic [Serbia and Montenegro] - Single Player Sticker
+219 - Albert Nadj [Serbia and Montenegro] - Single Player Sticker
+220 - Dejan Stankovic [Serbia and Montenegro] - Single Player Sticker
+221 - Zvonimir Vukic [Serbia and Montenegro] - Single Player Sticker
+222 - Mateja Kezman [Serbia and Montenegro] - Single Player Sticker
+223 - Danijel Ljuboja [Serbia and Montenegro] - Single Player Sticker
+224 - Savo Milosevic [Serbia and Montenegro] - Single Player Sticker
+225 - Nikola Zigic [Serbia and Montenegro] - Single Player Sticker
+226 - Holland - Team Sticker
+227 - Holland - Glitter - Badge
+228 - Edwin Van der Sar [Holland] - Single Player Sticker
+229 - Khalid Boulahrouz [Holland] - Single Player Sticker
+230 - Jan Kromkamp [Holland] - Single Player Sticker
+231 - Joris Mathijsen [Holland] - Single Player Sticker
+232 - Andre Ooijer [Holland] - Single Player Sticker
+233 - Barry Opdam [Holland] - Single Player Sticker
+234 - Giovanni Van Bronckhorst [Holland] - Single Player Sticker
+235 - Phillip Cocu [Holland] - Single Player Sticker
+236 - Denny Landzaat [Holland] - Single Player Sticker
+237 - Mark Van Bommel [Holland] - Single Player Sticker
+238 - Rafael Van der Vaart [Holland] - Single Player Sticker
+239 - Dirk Kuyt [Holland] - Single Player Sticker
+240 - Arjen Robben [Holland] - Single Player Sticker
+241 - Ruud Van Nistelrooy [Holland] - Single Player Sticker
+242 - Robin Van Persie [Holland] - Single Player Sticker
+243 - Jan Vennegoor of Hesselink [Holland] - Single Player Sticker
+244 - Mexico - Team Sticker
+245 - Mexico - Glitter - Badge
+246 - Oswaldo Sanchez [Mexico] - Single Player Sticker
+247 - Rafael Marquez [Mexico] - Single Player Sticker
+248 - Mario Mendez [Mexico] - Single Player Sticker
+249 - Pavel Pardo [Mexico] - Single Player Sticker
+250 - Francisco Rodriguez [Mexico] - Single Player Sticker
+251 - Carlos Salcido [Mexico] - Single Player Sticker
+252 - Guillermo Franco [Mexico] - Single Player Sticker
+253 - Jaime Lozano [Mexico] - Single Player Sticker
+254 - Ramon Morales [Mexico] - Single Player Sticker
+255 - Ricardo Osorio [Mexico] - Single Player Sticker
+256 - Luis Perez [Mexico] - Single Player Sticker
+257 - Gerardo Torrado [Mexico] - Single Player Sticker
+258 -  Zinha [Mexico] - Single Player Sticker
+259 - Cuauhtemoc Blanco [Mexico] - Single Player Sticker
+260 - Jared Borgetti [Mexico] - Single Player Sticker
+261 - Omar Bravo [Mexico] - Single Player Sticker
+262 - Francisco Fonseca [Mexico] - Single Player Sticker
+263 - Iran - Team Sticker
+264 - Iran - Glitter - Badge
+265 - Ebrahim Mirzapour [Iran] - Single Player Sticker
+266 - Sayed Alavi [Iran] - Single Player Sticker
+267 - Yaha Golmohammadi [Iran] - Single Player Sticker
+268 - Hossein Kaebi [Iran] - Single Player Sticker
+269 - Javad Nekounam [Iran] - Single Player Sticker
+270 - Rahman Rezaei [Iran] - Single Player Sticker
+271 - Ali Karimi [Iran] - Single Player Sticker
+272 - Javad Kazemeyan [Iran] - Single Player Sticker
+273 - Mehdi Mahdavikia [Iran] - Single Player Sticker
+274 - Eman Mobali [Iran] - Single Player Sticker
+275 - Moharram Navidkia [Iran] - Single Player Sticker
+276 - Mohammad Nosrati [Iran] - Single Player Sticker
+277 - Ferydoon Zandi [Iran] - Single Player Sticker
+278 - Ali Daei [Iran] - Single Player Sticker
+279 - Vahid Hashemian [Iran] - Single Player Sticker
+280 - Alireza Vahedi [Iran] - Single Player Sticker
+281 - Mehdi Rahmati [Iran] - Single Player Sticker
+282 - Portugal - Team Sticker
+283 - Portugal - Glitter - Badge
+284 -  Ricardo [Portugal] - Single Player Sticker
+285 -  Jorge Andrade [Portugal] - Single Player Sticker
+286 -  Marco Caneira [Portugal] - Single Player Sticker
+287 -  Miguel [Portugal] - Single Player Sticker
+288 -  Nuno Valente [Portugal] - Single Player Sticker
+289 -  Paulo Ferreira [Portugal] - Single Player Sticker
+290 -  Ricardo Carvalho [Portugal] - Single Player Sticker
+291 -  Costinha [Portugal] - Single Player Sticker
+292 -  Deco [Portugal] - Single Player Sticker
+293 -  Figo [Portugal] - Single Player Sticker
+294 -  Maniche [Portugal] - Single Player Sticker
+295 -  Petit [Portugal] - Single Player Sticker
+296 -  SimÃ£o [Portugal] - Single Player Sticker
+297 -  Tiago [Portugal] - Single Player Sticker
+298 -  Cristiano Ronaldo [Portugal] - Single Player Sticker
+299 -  Nuno Gomes [Portugal] - Single Player Sticker
+300 -  Pauleta [Portugal] - Single Player Sticker
+301 - Angola - Glitter - Badge
+302 - Angola - Team Sticker
+303 -  JoÃ£o Ricardo [Angola] - Double Player Sticker
+303 -  Jacinto [Angola] - Double Player Sticker
+304 -  Jamba [Angola] - Double Player Sticker
+304 -  Lebo Lebo [Angola] - Double Player Sticker
+305 -  Loco [Angola] - Double Player Sticker
+305 -  Delgado [Angola] - Double Player Sticker
+306 -  Andre Macanga [Angola] - Double Player Sticker
+306 -  Edson [Angola] - Double Player Sticker
+307 -  Figuereido [Angola] - Double Player Sticker
+307 -  MendonÃ§a [Angola] - Double Player Sticker
+308 -  Ze Kalanga [Angola] - Double Player Sticker
+308 -  Akwa [Angola] - Double Player Sticker
+309 -  Flavio [Angola] - Double Player Sticker
+309 -  Love [Angola] - Double Player Sticker
+310 -  Mantorras [Angola] - Double Player Sticker
+310 -  Maurito [Angola] - Double Player Sticker
+311 - Ghana - Glitter - Badge
+312 - Ghana - Team Sticker
+313 - Sammy Adjei [Ghana] - Double Player Sticker
+313 - Daniel Edusei [Ghana] - Double Player Sticker
+314 - Samuel Osei Kuffour [Ghana] - Double Player Sticker
+314 - John Mensah [Ghana] - Double Player Sticker
+315 - John Pantsil [Ghana] - Double Player Sticker
+315 - Emmanuel Pappoe [Ghana] - Double Player Sticker
+316 - Stephen Appiah [Ghana] - Double Player Sticker
+316 - Godwin Attram [Ghana] - Double Player Sticker
+317 - Michael Essien [Ghana] - Double Player Sticker
+317 - Laryea Kingston [Ghana] - Double Player Sticker
+318 - Sulley Ali Muntari [Ghana] - Double Player Sticker
+318 - Abubakari Yakubu [Ghana] - Double Player Sticker
+319 - Matthew Amoah [Ghana] - Double Player Sticker
+319 - Asamoah Gyan [Ghana] - Double Player Sticker
+320 - Asamoah Frimpong [Ghana] - Double Player Sticker
+320 - George Owu [Ghana] - Double Player Sticker
+321 - Italy - Team Sticker
+322 - Italy - Glitter - Badge
+323 - Gianluigi Buffon [Italy] - Single Player Sticker
+324 - Fabio Cannavaro [Italy] - Single Player Sticker
+325 - Marco Materazzi [Italy] - Single Player Sticker
+326 - Alessandro Nesta [Italy] - Single Player Sticker
+327 - Gianluca Zambrotta [Italy] - Single Player Sticker
+328 - Fabio Grosso [Italy] - Single Player Sticker
+329 - Cristian Zaccardo [Italy] - Single Player Sticker
+330 - Mauro German Camoranesi [Italy] - Single Player Sticker
+331 - Daniele De Rossi [Italy] - Single Player Sticker
+332 - Gennaro Ivan Gattuso [Italy] - Single Player Sticker
+333 - Andrea Pirlo [Italy] - Single Player Sticker
+334 - Simone Perrotta [Italy] - Single Player Sticker
+335 - Alessandro Del Piero [Italy] - Single Player Sticker
+336 - Alberto Gilardino [Italy] - Single Player Sticker
+337 - Luca Toni [Italy] - Single Player Sticker
+338 - Francesco Totti [Italy] - Single Player Sticker
+339 - Christian Vieri [Italy] - Single Player Sticker
+340 - USA - Team Sticker
+341 - USA - Glitter - Badge
+342 - Kasey Keller [USA] - Single Player Sticker
+343 - Gregg Berhalter [USA] - Single Player Sticker
+344 - Carlos Bocanegra [USA] - Single Player Sticker
+345 - Steve Cherundolo [USA] - Single Player Sticker
+346 - Frankie Hejduk [USA] - Single Player Sticker
+347 - Oguchi Onyewu [USA] - Single Player Sticker
+348 - Eddie Pope [USA] - Single Player Sticker
+349 - DaMarcus Beasley [USA] - Single Player Sticker
+350 - Clint Dempsey [USA] - Single Player Sticker
+351 - Eddie Lewis [USA] - Single Player Sticker
+352 - Pablo Mastroeni [USA] - Single Player Sticker
+353 - Steve Ralston [USA] - Single Player Sticker
+354 - Claudio Reyna [USA] - Single Player Sticker
+355 - Landon Donovan [USA] - Single Player Sticker
+356 - Eddie Johnson [USA] - Single Player Sticker
+357 - Brian McBride [USA] - Single Player Sticker
+358 - Taylor Twellman [USA] - Single Player Sticker
+359 - Czech Rep. - Team Sticker
+360 - Czech Rep. - Glitter - Badge
+361 - Petr Cech [Czech Rep.] - Single Player Sticker
+362 - Zdenek Grygera [Czech Rep.] - Single Player Sticker
+363 - Marek Jankulovski [Czech Rep.] - Single Player Sticker
+364 - Martin Jiranek [Czech Rep.] - Single Player Sticker
+365 - David Rozehnal [Czech Rep.] - Single Player Sticker
+366 - Tomas Ujfalusi [Czech Rep.] - Single Player Sticker
+367 - Tomas Galasek [Czech Rep.] - Single Player Sticker
+368 - Pavel Nedved [Czech Rep.] - Single Player Sticker
+369 - Jaroslav Plasil [Czech Rep.] - Single Player Sticker
+370 - Karel Poborsky [Czech Rep.] - Single Player Sticker
+371 - Jan Polak [Czech Rep.] - Single Player Sticker
+372 - Tomas Rosicky [Czech Rep.] - Single Player Sticker
+373 - Vladimir Smicer [Czech Rep.] - Single Player Sticker
+374 - Milan Baros [Czech Rep.] - Single Player Sticker
+375 - Marek Heinz [Czech Rep.] - Single Player Sticker
+376 - Jan Koller [Czech Rep.] - Single Player Sticker
+377 - Vratislav Lokvenc [Czech Rep.] - Single Player Sticker
+378 - Brazil - Team Sticker
+379 - Brazil - Glitter - Badge
+380 -  Dida [Brazil] - Single Player Sticker
+381 -  Cafu [Brazil] - Single Player Sticker
+382 -  Cicinho [Brazil] - Single Player Sticker
+383 -  Juan [Brazil] - Single Player Sticker
+384 -  Lucio [Brazil] - Single Player Sticker
+385 -  Roberto Carlos [Brazil] - Single Player Sticker
+386 -  Roque Junior [Brazil] - Single Player Sticker
+387 -  Emerson [Brazil] - Single Player Sticker
+388 -  Julio Baptista [Brazil] - Single Player Sticker
+389 -  Juninho Pernambucano [Brazil] - Single Player Sticker
+390 -  Renato [Brazil] - Single Player Sticker
+391 -  Ze Roberto [Brazil] - Single Player Sticker
+392 -  Kaka [Brazil] - Single Player Sticker
+393 -  Ronaldinho [Brazil] - Single Player Sticker
+394 -  Adriano [Brazil] - Single Player Sticker
+395 -  Robinho [Brazil] - Single Player Sticker
+396 -  Ronaldo [Brazil] - Single Player Sticker
+397 - Croatia - Team Sticker
+398 - Croatia - Glitter - Badge
+399 - Tomislav Butina [Croatia] - Single Player Sticker
+400 - Robert Kovac [Croatia] - Single Player Sticker
+401 - Dario Simic [Croatia] - Single Player Sticker
+402 - Josip Simunic [Croatia] - Single Player Sticker
+403 - Stjepan Tomas [Croatia] - Single Player Sticker
+404 - Igor Tudor [Croatia] - Single Player Sticker
+405 - Marko Babic [Croatia] - Single Player Sticker
+406 - Niko Kovac [Croatia] - Single Player Sticker
+407 - Niko Kranjcar [Croatia] - Single Player Sticker
+408 - Jerko Leko [Croatia] - Single Player Sticker
+409 - Darijo Srna [Croatia] - Single Player Sticker
+410 - Jurica Vranjes [Croatia] - Single Player Sticker
+411 - Bosko Balaban [Croatia] - Single Player Sticker
+412 - Ivan Klasnic [Croatia] - Single Player Sticker
+413 - Ivica Olic [Croatia] - Single Player Sticker
+414 - Dado Prso [Croatia] - Single Player Sticker
+415 - Stipe Pletikosa [Croatia] - Single Player Sticker
+416 - Australia - Team Sticker
+417 - Australia - Glitter - Badge
+418 - Mark Schwarzer [Australia] - Single Player Sticker
+419 - Scott Chipperfield [Australia] - Single Player Sticker
+420 - Craig Moore [Australia] - Single Player Sticker
+421 - Lucas Neill [Australia] - Single Player Sticker
+422 - Tony Popovic [Australia] - Single Player Sticker
+423 - Tony Vidmar [Australia] - Single Player Sticker
+424 - Mark Bresciano [Australia] - Single Player Sticker
+425 - Brett Emerton [Australia] - Single Player Sticker
+426 - Vincenzo Grella [Australia] - Single Player Sticker
+427 - Josip Skoko [Australia] - Single Player Sticker
+428 - Tim Cahill [Australia] - Single Player Sticker
+429 - Archie Thompson [Australia] - Single Player Sticker
+430 - John Aloisi [Australia] - Single Player Sticker
+431 - Jason Culina [Australia] - Single Player Sticker
+432 - Harry Kewell [Australia] - Single Player Sticker
+433 - Mark Viduka [Australia] - Single Player Sticker
+434 - Zeljko Kalac [Australia] - Single Player Sticker
+435 - Japan - Team Sticker
+436 - Japan - Glitter - Badge
+437 - Yoshikatsu Kawaguchi [Japan] - Single Player Sticker
+438 - Akira Kaji [Japan] - Single Player Sticker
+439 - Tsuneyasu Miyamoto [Japan] - Single Player Sticker
+440 - Yuji Nakazawa [Japan] - Single Player Sticker
+441 - Alessandro Santos [Japan] - Single Player Sticker
+442 - Makoto Tanaka [Japan] - Single Player Sticker
+443 - Yasuhito Endo [Japan] - Single Player Sticker
+444 - Takashi Fukunishi [Japan] - Single Player Sticker
+445 - Junichi Inamoto [Japan] - Single Player Sticker
+446 - Shunsuke Nakamura [Japan] - Single Player Sticker
+447 - Hidetoshi Nakata [Japan] - Single Player Sticker
+448 - Mitsuo Ogasawara [Japan] - Single Player Sticker
+449 - Masashi Oguro [Japan] - Single Player Sticker
+450 - Takayuki Suzuki [Japan] - Single Player Sticker
+451 - Naohiro Takahara [Japan] - Single Player Sticker
+452 - Keiji Tamada [Japan] - Single Player Sticker
+453 - Atsushi Yanagisawa [Japan] - Single Player Sticker
+454 - France - Team Sticker
+455 - France - Glitter - Badge
+456 - Fabien Barthez [France] - Single Player Sticker
+457 - Jean-Alain Boumsong [France] - Single Player Sticker
+458 - William Gallas [France] - Single Player Sticker
+459 - GaÃ«l Givet [France] - Single Player Sticker
+460 - Willy Sagnol [France] - Single Player Sticker
+461 - Lilian Thuram [France] - Single Player Sticker
+462 - Vikash Dhorasoo [France] - Single Player Sticker
+463 - Alou Diarra [France] - Single Player Sticker
+464 - Claude Makelele [France] - Single Player Sticker
+465 - Florent Malouda [France] - Single Player Sticker
+466 - Patrick Vieira [France] - Single Player Sticker
+467 - Zinedine Zidane [France] - Single Player Sticker
+468 - Djibril Cisse [France] - Single Player Sticker
+469 - Thierry Henry [France] - Single Player Sticker
+470 - David Trezeguet [France] - Single Player Sticker
+471 - Sylvain Wiltord [France] - Single Player Sticker
+472 - Gregory Coupet [France] - Single Player Sticker
+473 - Switzerland - Team Sticker
+474 - Switzerland - Glitter - Badge
+475 - Pascal ZuberbÃ¼hler [Switzerland] - Single Player Sticker
+476 - Philipp Degen [Switzerland] - Single Player Sticker
+477 - Ludovic Magnin [Switzerland] - Single Player Sticker
+478 - Patrick MÃ¼ller [Switzerland] - Single Player Sticker
+479 - Philippe Senderos [Switzerland] - Single Player Sticker
+480 - Christoph Spycher [Switzerland] - Single Player Sticker
+481 - Tranquillo Barnetta [Switzerland] - Single Player Sticker
+482 - Ricardo Cabanas [Switzerland] - Single Player Sticker
+483 - Daniel Gygax [Switzerland] - Single Player Sticker
+484 - Johann Lonfat [Switzerland] - Single Player Sticker
+485 - Johann Vogel [Switzerland] - Single Player Sticker
+486 - RaphaÃ«l Wicky [Switzerland] - Single Player Sticker
+487 - Hakan Yakin [Switzerland] - Single Player Sticker
+488 - Valon Behrami [Switzerland] - Single Player Sticker
+489 - Alexander Frei [Switzerland] - Single Player Sticker
+490 - Marco Streller [Switzerland] - Single Player Sticker
+491 - Johan Vonlanthen [Switzerland] - Single Player Sticker
+492 - Korea Rep. - Team Sticker
+493 - Korea Rep. - Glitter - Badge
+494 - Lee  Woon-Jae  [Korea Rep.] - Single Player Sticker
+495 - Park  Dong-Hyuk [Korea Rep.] - Single Player Sticker
+496 - Park  Jae-Hong [Korea Rep.] - Single Player Sticker
+497 - Choi  Jin-Cheul [Korea Rep.] - Single Player Sticker
+498 - Kim  Jin-Kyu [Korea Rep.] - Single Player Sticker
+499 - You  Kyoung-Youl [Korea Rep.] - Single Player Sticker
+500 - Lee  Chun-Soo [Korea Rep.] - Single Player Sticker
+501 - Kim  Do-Heon [Korea Rep.] - Single Player Sticker
+502 - Kim  Dong-Jin [Korea Rep.] - Single Player Sticker
+503 - Park  Ji-Sung  [Korea Rep.] - Single Player Sticker
+504 - Kim  Jung-Woo [Korea Rep.] - Single Player Sticker
+505 - Kim  Nam-Il [Korea Rep.] - Single Player Sticker
+506 - Lee  Young-Pyo [Korea Rep.] - Single Player Sticker
+507 - Lee  Dong-Gook [Korea Rep.] - Single Player Sticker
+508 - Cha  Du-Ri [Korea Rep.] - Single Player Sticker
+509 - Ahn  Jung-Hwan [Korea Rep.] - Single Player Sticker
+510 - Chung  Kyung-Ho [Korea Rep.] - Single Player Sticker
+511 - Togo - Team Sticker
+512 - Togo - Glitter - Badge
+513 - Kossi Agassa [Togo] - Single Player Sticker
+514 - Jean-Paul Abalo [Togo] - Single Player Sticker
+515 - Eric Akoto [Togo] - Single Player Sticker
+516 - Mohama Atte-Oudeyi [Togo] - Single Player Sticker
+517 - Emmanuel Mathias [Togo] - Single Player Sticker
+518 - Dare Nibombe [Togo] - Single Player Sticker
+519 - Junior Senaya [Togo] - Single Player Sticker
+520 - Massamasso Tchangai [Togo] - Single Player Sticker
+521 - Yao Aziawonou [Togo] - Single Player Sticker
+522 - Mamam Cherif-Toure [Togo] - Single Player Sticker
+523 - Abdel Coubadja [Togo] - Single Player Sticker
+524 - Jacques Romao [Togo] - Single Player Sticker
+525 - Moustapha Salifou [Togo] - Single Player Sticker
+526 - Robert Souliemane [Togo] - Single Player Sticker
+527 - Emmanuel Sheyi Adebayor [Togo] - Single Player Sticker
+528 - Mickael Dogbe [Togo] - Single Player Sticker
+529 - Adekanmi Olufade [Togo] - Single Player Sticker
+530 - Spain - Team Sticker
+531 - Spain - Glitter - Badge
+532 - Iker Casillas [Spain] - Single Player Sticker
+533 - Asier Del Horno [Spain] - Single Player Sticker
+534 - Carlos Marchena [Spain] - Single Player Sticker
+535 - Pablo IbaÃ±ez [Spain] - Single Player Sticker
+536 - Carles Puyol [Spain] - Single Player Sticker
+537 - "Michel" Salgado [Spain] - Single Player Sticker
+538 - Sergio Ramos [Spain] - Single Player Sticker
+539 - David Albelda [Spain] - Single Player Sticker
+540 - Ruben Baraja [Spain] - Single Player Sticker
+541 - Vicente Rodriguez [Spain] - Single Player Sticker
+542 - "Xavi" Hernandez [Spain] - Single Player Sticker
+543 - Joaquin Sanchez [Spain] - Single Player Sticker
+544 - Luis Garcia [Spain] - Single Player Sticker
+545 - Raul Gonzalez [Spain] - Single Player Sticker
+546 - Jose Antonio Reyes [Spain] - Single Player Sticker
+547 - Fernando Morientes [Spain] - Single Player Sticker
+548 - Fernando Torres [Spain] - Single Player Sticker
+549 - Ukraine - Team Sticker
+550 - Ukraine - Glitter - Badge
+551 - Oleksandr Shovkovskiy [Ukraine] - Single Player Sticker
+552 - Serhiy Fedorov [Ukraine] - Single Player Sticker
+553 - Andriy Nesmachniy [Ukraine] - Single Player Sticker
+554 - Oleksandr Radchenko [Ukraine] - Single Player Sticker
+555 - Andriy Rusol [Ukraine] - Single Player Sticker
+556 - Vyacheslav Sviderskyi [Ukraine] - Single Player Sticker
+557 - Volodymyr Yezerskyi [Ukraine] - Single Player Sticker
+558 - Andriy Husin [Ukraine] - Single Player Sticker
+559 - Oleh Husyev [Ukraine] - Single Player Sticker
+560 - Ruslan Rotan [Ukraine] - Single Player Sticker
+561 - Oleh Shelayev [Ukraine] - Single Player Sticker
+562 - Anatoliy Tymoschuk [Ukraine] - Single Player Sticker
+563 - Serhiy Rebrov [Ukraine] - Single Player Sticker
+564 - Oleksiy Byelik [Ukraine] - Single Player Sticker
+565 - Andriy Shevchenko [Ukraine] - Single Player Sticker
+566 - Andriy Vorobei [Ukraine] - Single Player Sticker
+567 - Andriy Voronin [Ukraine] - Single Player Sticker
+568 - Tunisia - Team Sticker
+569 - Tunisia - Glitter - Badge
+570 - Ali Boumnijel [Tunisia] - Single Player Sticker
+571 -  Clayton [Tunisia] - Single Player Sticker
+572 - Karim Hagui [Tunisia] - Single Player Sticker
+573 - Radhi Jaidi [Tunisia] - Single Player Sticker
+574 - Karim Saidi [Tunisia] - Single Player Sticker
+575 - Hatem Trabelsi [Tunisia] - Single Player Sticker
+576 - Alaeddine Yahia [Tunisia] - Single Player Sticker
+577 - Slim Ben Achour [Tunisia] - Single Player Sticker
+578 - Chaouki Ben Saada [Tunisia] - Single Player Sticker
+579 - Adel Chadli [Tunisia] - Single Player Sticker
+580 - Kaies Ghodbane [Tunisia] - Single Player Sticker
+581 - Jaouhar Mnari [Tunisia] - Single Player Sticker
+582 - Mehdi Nafti [Tunisia] - Single Player Sticker
+583 - Haykel Guemamdia [Tunisia] - Single Player Sticker
+584 - Ziad Jaziri [Tunisia] - Single Player Sticker
+585 - Imed Mhadhebi [Tunisia] - Single Player Sticker
+586 -  Santos [Tunisia] - Single Player Sticker
+587 - Saudi Arabia - Glitter - Badge
+588 - Saudi Arabia - Team Sticker
+589 - Mabrouk Zaid [Saudi Arabia] - Double Player Sticker
+589 - Saheb Al Abdullha [Saudi Arabia] - Double Player Sticker
+590 - Ahmed Al Bahri [Saudi Arabia] - Double Player Sticker
+590 - Hamad Al Montashari [Saudi Arabia] - Double Player Sticker
+591 - Naif Al Qadi [Saudi Arabia] - Double Player Sticker
+591 - Saud Khariri [Saudi Arabia] - Double Player Sticker
+592 - Khamis Al Dossari [Saudi Arabia] - Double Player Sticker
+592 - Ibrahim Al Shahrani [Saudi Arabia] - Double Player Sticker
+593 - Mohammad Al Shlhoub [Saudi Arabia] - Double Player Sticker
+593 - Khaled Al Thaker [Saudi Arabia] - Double Player Sticker
+594 - Mohammed Haidar [Saudi Arabia] - Double Player Sticker
+594 - Abdulaziz Khathran [Saudi Arabia] - Double Player Sticker
+595 - Manaf Abushgeer [Saudi Arabia] - Double Player Sticker
+595 - Sami Al Jaber [Saudi Arabia] - Double Player Sticker
+596 - Talal Al Meshal [Saudi Arabia] - Double Player Sticker
+596 - Yasser Al Qahtani [Saudi Arabia] - Double Player Sticker
