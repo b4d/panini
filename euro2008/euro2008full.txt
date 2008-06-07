@@ -1,0 +1,535 @@
+1 - Glitter - Panini commemorative Stamp
+2 - Sticker - Uefa Fairplay
+3 - Glitter - Trophy
+4 - Glitter - Official Logo
+5 - Glitter - Official Mascot
+6 - Wien - Glitter
+7 - Innsbruck-Tirol - Glitter
+8 - Salzburg - Glitter
+9 - Klagenfurt - Glitter
+10 - Basel - Glitter
+11 - Bern - Glitter
+12 - Zurich - Glitter -
+13 - Geneve - Glitter -
+14 - Wien  - Stadium Sticker (puzzle)
+15 - Wien  - Stadium Sticker (puzzle)
+16 - Wien  - Sticker - Venues (puzzle)
+17 - Wien  - Sticker - Venues (puzzle)
+18 - Salzburg  - Stadium Sticker (puzzle)
+19 - Salzburg  - Stadium Sticker (puzzle)
+20 - Salzburg  - Sticker - Venues (puzzle)
+21 - Salzburg  - Sticker - Venues (puzzle)
+22 - Innsbruck-Tirol  - Stadium Sticker (puzzle)
+23 - Innsbruck-Tirol  - Stadium Sticker (puzzle)
+24 - Innsbruck-Tirol  - Sticker - Venues (puzzle)
+25 - Innsbruck-Tirol  - Sticker - Venues (puzzle)
+26 - Klagenfurt  - Stadium Sticker (puzzle)
+27 - Klagenfurt  - Stadium Sticker (puzzle)
+28 - Klagenfurt  - Sticker - Venues (puzzle)
+29 - Klagenfurt  - Sticker - Venues (puzzle)
+30 - Basel  - Stadium Sticker (puzzle)
+31 - Basel  - Stadium Sticker (puzzle)
+32 - Basel  - Sticker - Venues (puzzle)
+33 - Basel  - Sticker - Venues (puzzle)
+34 - Zürich  - Stadium Sticker (puzzle)
+35 - Zürich  - Stadium Sticker (puzzle)
+36 - Zürich  - Sticker - Venues (puzzle)
+37 - Zürich  - Sticker - Venues (puzzle)
+38 - Bern  - Stadium Sticker (puzzle)
+39 - Bern  - Stadium Sticker (puzzle)
+40 - Bern  - Sticker - Venues (puzzle)
+41 - Bern  - Sticker - Venues (puzzle)
+42 - Genève  - Stadium Sticker (puzzle)
+43 - Genève  - Stadium Sticker (puzzle)
+44 - Genève  - Sticker - Venues (puzzle)
+45 - Genève  - Sticker - Venues (puzzle)
+46 - Switzerland - Sticker - Official Mascots
+47 - Switzerland - Team Sticker (puzzle)
+48 - Switzerland - Team Sticker (puzzle)
+49 - Switzerland - Team Sticker (puzzle)
+50 - Switzerland - Team Sticker (puzzle)
+51 - Switzerland - Glitter - Badge
+52 - Diego Benaglio [Switzerland] - Single Player Sticker
+53 - Philipp Degen [Switzerland] - Single Player Sticker
+54 - Philippe Senderos [Switzerland] - Single Player Sticker
+55 - Johan Djourou [Switzerland] - Single Player Sticker
+56 - Stephane Grichting [Switzerland] - Single Player Sticker
+57 - Stephan Lichtsteiner [Switzerland] - Single Player Sticker
+58 - Christoph Spycher [Switzerland] - Single Player Sticker
+59 - Ludovic Magnin [Switzerland] - Single Player Sticker
+60 - Mario Eggimann [Switzerland] - Single Player Sticker
+61 - Gelson Fernandes [Switzerland] - Single Player Sticker
+62 - Valon Behrami [Switzerland] - Single Player Sticker
+63 - Gökhan Inler [Switzerland] - Single Player Sticker
+64 - Hakan Yakin [Switzerland] - Single Player Sticker
+65 - Tranquillo Barnetta [Switzerland] - Single Player Sticker
+66 - Xavier Margairaz [Switzerland] - Single Player Sticker
+67 - Daniel Gygax [Switzerland] - Single Player Sticker
+68 - Johan Vonlanthen [Switzerland] - Single Player Sticker
+69 - Alexander Frei [Switzerland] - Single Player Sticker
+70 - Marco Streller [Switzerland] - Single Player Sticker
+71 - Pascal Zuberbühler [Switzerland] - Single Player Sticker
+72 - Czech Rep. - Sticker - Official Mascots
+73 - Czech Rep. - Team Sticker (puzzle)
+74 - Czech Rep. - Team Sticker (puzzle)
+75 - Czech Rep. - Team Sticker (puzzle)
+76 - Czech Rep. - Team Sticker (puzzle)
+77 - Czech Rep. - Glitter - Badge
+78 - Petr Cech [Czech Rep.] - Single Player Sticker
+79 - Zdenek Grygera [Czech Rep.] - Single Player Sticker
+80 - Martin Jiranek [Czech Rep.] - Single Player Sticker
+81 - Tomas Hübschman [Czech Rep.] - Single Player Sticker
+82 - Tomas Ujfalusi [Czech Rep.] - Single Player Sticker
+83 - David Rozehnal [Czech Rep.] - Single Player Sticker
+84 - Marek Jankulovski [Czech Rep.] - Single Player Sticker
+85 - Radoslav Kovac [Czech Rep.] - Single Player Sticker
+86 - Tomas Galasek [Czech Rep.] - Single Player Sticker
+87 - Tomas Sivok [Czech Rep.] - Single Player Sticker
+88 - David Jarolim [Czech Rep.] - Single Player Sticker
+89 - Jaroslav Plasil [Czech Rep.] - Single Player Sticker
+90 - Jan Polak [Czech Rep.] - Single Player Sticker
+91 - Tomas Rosicky [Czech Rep.] - Single Player Sticker
+92 - Marek Kulic [Czech Rep.] - Single Player Sticker
+93 - Libor Sionko [Czech Rep.] - Single Player Sticker
+94 - Jiri Stajner [Czech Rep.] - Single Player Sticker
+95 - Milan Baros [Czech Rep.] - Single Player Sticker
+96 - Jan Koller [Czech Rep.] - Single Player Sticker
+97 - Jaromir Blazek [Czech Rep.] - Single Player Sticker
+98 - Portugal - Sticker - Official Mascots
+99 - Portugal - Team Sticker (puzzle)
+100 - Portugal - Team Sticker (puzzle)
+101 - Portugal - Team Sticker (puzzle)
+102 - Portugal - Team Sticker (puzzle)
+103 - Portugal - Glitter - Badge
+104 -  Ricardo [Portugal] - Single Player Sticker
+105 - Ricardo Carvalho [Portugal] - Single Player Sticker
+106 -  Pepe [Portugal] - Single Player Sticker
+107 - Fernando Meira [Portugal] - Single Player Sticker
+108 - Paulo Ferreira [Portugal] - Single Player Sticker
+109 -  Miguel [Portugal] - Single Player Sticker
+110 - Bruno Alves [Portugal] - Single Player Sticker
+111 -  Bosingwa [Portugal] - Single Player Sticker
+112 - Miguel Veloso [Portugal] - Single Player Sticker
+113 -  Petit [Portugal] - Single Player Sticker
+114 -  Tiago [Portugal] - Single Player Sticker
+115 -  Maniche [Portugal] - Single Player Sticker
+116 -  Deco [Portugal] - Single Player Sticker
+117 -  Nani [Portugal] - Single Player Sticker
+118 -  Quaresma [Portugal] - Single Player Sticker
+119 -  Simão [Portugal] - Single Player Sticker
+120 - Cristiano Ronaldo [Portugal] - Single Player Sticker
+121 - Hugo Almeida [Portugal] - Single Player Sticker
+122 - Nuno Gomes [Portugal] - Single Player Sticker
+123 -  Quim [Portugal] - Single Player Sticker
+124 - Turkey - Sticker - Official Mascots
+125 - Turkey - Team Sticker (puzzle)
+126 - Turkey - Team Sticker (puzzle)
+127 - Turkey - Team Sticker (puzzle)
+128 - Turkey - Team Sticker (puzzle)
+129 - Turkey - Glitter - Badge
+130 - Volkan Demirel [Turkey] - Single Player Sticker
+131 - Servet Cetin [Turkey] - Single Player Sticker
+132 - Gökhan Zan [Turkey] - Single Player Sticker
+133 - Emre Asik [Turkey] - Single Player Sticker
+134 - Gökhan Gönül [Turkey] - Single Player Sticker
+135 - Hakan Balta [Turkey] - Single Player Sticker
+136 - Ibrahim Üzülmez [Turkey] - Single Player Sticker
+137 - Arda Turan [Turkey] - Single Player Sticker
+138 - Mehmet Aurelio [Turkey] - Single Player Sticker
+139 - Hamit Altintop [Turkey] - Single Player Sticker
+140 - Emre Belözoglu [Turkey] - Single Player Sticker
+141 - Tümer Metin [Turkey] - Single Player Sticker
+142 - Yildiray Bastürk [Turkey] - Single Player Sticker
+143 - Gökdeniz Karadeniz [Turkey] - Single Player Sticker
+144 - Tuncay Sanli [Turkey] - Single Player Sticker
+145 - Semih Sentürk [Turkey] - Single Player Sticker
+146 - Nihat Kahveci [Turkey] - Single Player Sticker
+147 - Gökhan Ünal [Turkey] - Single Player Sticker
+148 - Hakan Sükür [Turkey] - Single Player Sticker
+149 - Rüstü Reçber [Turkey] - Single Player Sticker
+150 - Austria - Sticker - Official Mascots
+151 - Austria - Team Sticker (puzzle)
+152 - Austria - Team Sticker (puzzle)
+153 - Austria - Team Sticker (puzzle)
+154 - Austria - Team Sticker (puzzle)
+155 - Austria - Glitter - Badge
+156 - Alexander Manninger [Austria] - Single Player Sticker
+157 - Emanuel Pogatetz [Austria] - Single Player Sticker
+158 - Franz Schiemer [Austria] - Single Player Sticker
+159 - Sebastian Prödl [Austria] - Single Player Sticker
+160 - Martin Hiden [Austria] - Single Player Sticker
+161 - György Garics [Austria] - Single Player Sticker
+162 - Ronald Gercaliu [Austria] - Single Player Sticker
+163 - Martin Stranzl [Austria] - Single Player Sticker
+164 - Joachim Standfest [Austria] - Single Player Sticker
+165 - Christoph Leitgeb [Austria] - Single Player Sticker
+166 - Yüksel Sariyar [Austria] - Single Player Sticker
+167 - Thomas Prager [Austria] - Single Player Sticker
+168 - Veli Kavlak [Austria] - Single Player Sticker
+169 - Rene Aufhauser [Austria] - Single Player Sticker
+170 - Andreas Ivanschitz [Austria] - Single Player Sticker
+171 - Roland Linz [Austria] - Single Player Sticker
+172 - Roman Kienast [Austria] - Single Player Sticker
+173 - Martin Harnik [Austria] - Single Player Sticker
+174 - Sanel Kuljic [Austria] - Single Player Sticker
+175 - Jürgen Macho [Austria] - Single Player Sticker
+176 - Croatia - Sticker - Official Mascots
+177 - Croatia - Team Sticker (puzzle)
+178 - Croatia - Team Sticker (puzzle)
+179 - Croatia - Team Sticker (puzzle)
+180 - Croatia - Team Sticker (puzzle)
+181 - Croatia - Glitter - Badge
+182 - Stipe Pletikosa [Croatia] - Single Player Sticker
+183 - Josip Simunic [Croatia] - Single Player Sticker
+184 - Dario Simic [Croatia] - Single Player Sticker
+185 - Vedran Corluka [Croatia] - Single Player Sticker
+186 - Robert Kovac [Croatia] - Single Player Sticker
+187 - Dario Knezevic [Croatia] - Single Player Sticker
+188 - Jurica Vranjes [Croatia] - Single Player Sticker
+189 - Marko Babic [Croatia] - Single Player Sticker
+190 - Niko Kovac [Croatia] - Single Player Sticker
+191 - Darijo Srna [Croatia] - Single Player Sticker
+192 - Ivan Rakitic [Croatia] - Single Player Sticker
+193 - Niko Kranjcar [Croatia] - Single Player Sticker
+194 - Luka Modric [Croatia] - Single Player Sticker
+195 - Jerko Leko [Croatia] - Single Player Sticker
+196 - Ivan Klasnic [Croatia] - Single Player Sticker
+197 - Bosko Balaban [Croatia] - Single Player Sticker
+198 - Ivica Olic [Croatia] - Single Player Sticker
+199 - Igor Budan [Croatia] - Single Player Sticker
+200 - Mladen Petric [Croatia] - Single Player Sticker
+201 - Vedran Runje [Croatia] - Single Player Sticker
+202 - Germany - Sticker - Official Mascots
+203 - Germany - Team Sticker (puzzle)
+204 - Germany - Team Sticker (puzzle)
+205 - Germany - Team Sticker (puzzle)
+206 - Germany - Team Sticker (puzzle)
+207 - Germany - Glitter - Badge
+208 - Jens Lehmann [Germany] - Single Player Sticker
+209 - Per Mertesacker [Germany] - Single Player Sticker
+210 - Christoph Metzelder [Germany] - Single Player Sticker
+211 - Clemens Fritz [Germany] - Single Player Sticker
+212 - Arne Friedrich [Germany] - Single Player Sticker
+213 - Marcell Jansen [Germany] - Single Player Sticker
+214 - Philipp Lahm [Germany] - Single Player Sticker
+215 - Torsten Frings [Germany] - Single Player Sticker
+216 - Bernd Schneider [Germany] - Single Player Sticker
+217 - Simon Rolfes [Germany] - Single Player Sticker
+218 - Tim Borowski [Germany] - Single Player Sticker
+219 - Roberto Hilbert [Germany] - Single Player Sticker
+220 - Bastian Schweinsteiger [Germany] - Single Player Sticker
+221 - Michael Ballack [Germany] - Single Player Sticker
+222 - Thomas Hitzlsperger [Germany] - Single Player Sticker
+223 - Lukas Podolski [Germany] - Single Player Sticker
+224 - Mario Gomez [Germany] - Single Player Sticker
+225 - Miroslav Klose [Germany] - Single Player Sticker
+226 - Kevin Kuranyi [Germany] - Single Player Sticker
+227 - Timo Hildebrand [Germany] - Single Player Sticker
+228 - Poland - Sticker - Official Mascots
+229 - Poland - Team Sticker (puzzle)
+230 - Poland - Team Sticker (puzzle)
+231 - Poland - Team Sticker (puzzle)
+232 - Poland - Team Sticker (puzzle)
+233 - Poland - Glitter - Badge
+234 - Artur Boruc [Poland] - Single Player Sticker
+235 - Dariusz Dudka [Poland] - Single Player Sticker
+236 - Mariusz Jop [Poland] - Single Player Sticker
+237 - Jacek Bak [Poland] - Single Player Sticker
+238 - Marcin Wasilewski [Poland] - Single Player Sticker
+239 - Michal Zewlakow [Poland] - Single Player Sticker
+240 - Pawel Golanski [Poland] - Single Player Sticker
+241 - Jakub Blaszczykowski [Poland] - Single Player Sticker
+242 - Jacek Krzynowek [Poland] - Single Player Sticker
+243 - Mariusz Lewandowski [Poland] - Single Player Sticker
+244 - Grzegorz Bronowicki [Poland] - Single Player Sticker
+245 - Kamil Kosowski [Poland] - Single Player Sticker
+246 - Wojciech Lobodzinski [Poland] - Single Player Sticker
+247 - Euzebiusz Smolarek [Poland] - Single Player Sticker
+248 - Artur Wichniarek [Poland] - Single Player Sticker
+249 - Ireneusz Jelen [Poland] - Single Player Sticker
+250 - Radoslaw Matusiak [Poland] - Single Player Sticker
+251 - Maciej Zurawski [Poland] - Single Player Sticker
+252 - Grzegorz Rasiak [Poland] - Single Player Sticker
+253 - Lukasz Fabianski [Poland] - Single Player Sticker
+254 - Holland - Sticker - Official Mascots
+255 - Holland - Team Sticker (puzzle)
+256 - Holland - Team Sticker (puzzle)
+257 - Holland - Team Sticker (puzzle)
+258 - Holland - Team Sticker (puzzle)
+259 - Holland - Glitter - Badge
+260 - Edwin Van Der Sar [Holland] - Single Player Sticker
+261 - André Ooijer [Holland] - Single Player Sticker
+262 - Wilfred Bouma [Holland] - Single Player Sticker
+263 - Joris Mathijsen [Holland] - Single Player Sticker
+264 - Johnny Heitinga [Holland] - Single Player Sticker
+265 - Giovanni Van Bronckhorst [Holland] - Single Player Sticker
+266 - Demy De Zeeuw [Holland] - Single Player Sticker
+267 - Ibrahim Afellay [Holland] - Single Player Sticker
+268 - Rafael Van Der Vaart [Holland] - Single Player Sticker
+269 - Wesley Sneijder [Holland] - Single Player Sticker
+270 - Clarence Seedorf [Holland] - Single Player Sticker
+271 - Arjen Robben [Holland] - Single Player Sticker
+272 - Ryan Babel [Holland] - Single Player Sticker
+273 - Klaas Jan Huntelaar [Holland] - Single Player Sticker
+274 - Ruud Van Nistelrooy [Holland] - Single Player Sticker
+275 - Jan Vennegoor of Hesselink [Holland] - Single Player Sticker
+276 - Robin Van Persie [Holland] - Single Player Sticker
+277 - Maarten Stekelenburg [Holland] - Single Player Sticker
+278 -   [Holland] - Sticker - Supporters (puzzle)
+279 -   [Holland] - Sticker - Supporters (puzzle)
+280 - Italy - Sticker - Official Mascots
+281 - Italy - Team Sticker (puzzle)
+282 - Italy - Team Sticker (puzzle)
+283 - Italy - Team Sticker (puzzle)
+284 - Italy - Team Sticker (puzzle)
+285 - Italy - Glitter - Badge
+286 - Gianluigi Buffon [Italy] - Single Player Sticker
+287 - Fabio Cannavaro [Italy] - Single Player Sticker
+288 - Christian Panucci [Italy] - Single Player Sticker
+289 - Marco Materazzi [Italy] - Single Player Sticker
+290 - Andrea Barzagli [Italy] - Single Player Sticker
+291 - Fabio Grosso [Italy] - Single Player Sticker
+292 - Massimo Oddo [Italy] - Single Player Sticker
+293 - Gianluca Zambrotta [Italy] - Single Player Sticker
+294 - Massimo Ambrosini [Italy] - Single Player Sticker
+295 - Gennaro Gattuso [Italy] - Single Player Sticker
+296 - Simone Perrotta [Italy] - Single Player Sticker
+297 - Daniele De Rossi [Italy] - Single Player Sticker
+298 - Andrea Pirlo [Italy] - Single Player Sticker
+299 - Mauro Camoranesi [Italy] - Single Player Sticker
+300 - Fabio Quagliarella [Italy] - Single Player Sticker
+301 - Luca Toni [Italy] - Single Player Sticker
+302 - Antonio Di Natale [Italy] - Single Player Sticker
+303 - Alessandro Del Piero [Italy] - Single Player Sticker
+304 - Vincenzo Iaquinta [Italy] - Single Player Sticker
+305 - Marco Amelia [Italy] - Single Player Sticker
+306 - Romania - Sticker - Official Mascots
+307 - Romania - Team Sticker (puzzle)
+308 - Romania - Team Sticker (puzzle)
+309 - Romania - Team Sticker (puzzle)
+310 - Romania - Team Sticker (puzzle)
+311 - Romania - Glitter - Badge
+312 - Bogdan Lobont [Romania] - Single Player Sticker
+313 - George Ogararu [Romania] - Single Player Sticker
+314 - Razvan Rat [Romania] - Single Player Sticker
+315 - Dorin Goian [Romania] - Single Player Sticker
+316 - Cosmin Contra [Romania] - Single Player Sticker
+317 - Mirel Radoi [Romania] - Single Player Sticker
+318 - Gabriel Tamas [Romania] - Single Player Sticker
+319 - Cristian Chivu [Romania] - Single Player Sticker
+320 - Paul Codrea [Romania] - Single Player Sticker
+321 - Ovidiu Petre [Romania] - Single Player Sticker
+322 - Banel Nicolita [Romania] - Single Player Sticker
+323 - Florentin Petre [Romania] - Single Player Sticker
+324 - Razvan Cocis [Romania] - Single Player Sticker
+325 - Laurentiu Rosu [Romania] - Single Player Sticker
+326 - Nicolae Dica [Romania] - Single Player Sticker
+327 - Adrian Mutu [Romania] - Single Player Sticker
+328 - Ianis Zicu [Romania] - Single Player Sticker
+329 - Ciprian Marica [Romania] - Single Player Sticker
+330 - Daniel Niculae [Romania] - Single Player Sticker
+331 - Danut Coman [Romania] - Single Player Sticker
+332 - France - Sticker - Official Mascots
+333 - France - Team Sticker (puzzle)
+334 - France - Team Sticker (puzzle)
+335 - France - Team Sticker (puzzle)
+336 - France - Team Sticker (puzzle)
+337 - France - Glitter - Badge
+338 - Gregory Coupet [France] - Single Player Sticker
+339 - Lilian Thuram [France] - Single Player Sticker
+340 - William Gallas [France] - Single Player Sticker
+341 - Eric Abidal [France] - Single Player Sticker
+342 - Patrice Evra [France] - Single Player Sticker
+343 - Willy Sagnol [France] - Single Player Sticker
+344 - Bacary Sagna [France] - Single Player Sticker
+345 - Lassana Diarra [France] - Single Player Sticker
+346 - Claude Makelele [France] - Single Player Sticker
+347 - Patrick Vieira [France] - Single Player Sticker
+348 - Jeremy Toulalan [France] - Single Player Sticker
+349 - Samir Nasri [France] - Single Player Sticker
+350 - Florent Malouda [France] - Single Player Sticker
+351 - Franck Ribery [France] - Single Player Sticker
+352 - Hatem Ben Arfa [France] - Single Player Sticker
+353 - Sidney Govou [France] - Single Player Sticker
+354 - Karim Benzema [France] - Single Player Sticker
+355 - Thierry Henry [France] - Single Player Sticker
+356 - Nicolas Anelka [France] - Single Player Sticker
+357 - Mickaël Landreau [France] - Single Player Sticker
+358 - Greece - Sticker - Official Mascots
+359 - Greece - Team Sticker (puzzle)
+360 - Greece - Team Sticker (puzzle)
+361 - Greece - Team Sticker (puzzle)
+362 - Greece - Team Sticker (puzzle)
+363 - Greece - Glitter - Badge
+364 - Antonios Nikopolidis [Greece] - Single Player Sticker
+365 - Traianos Dellas [Greece] - Single Player Sticker
+366 - Christos Patsatzoglou [Greece] - Single Player Sticker
+367 - Georgios Seitaridis [Greece] - Single Player Sticker
+368 - Sotirios Kyrgiakos [Greece] - Single Player Sticker
+369 - Paraskevas Antzas [Greece] - Single Player Sticker
+370 - Panagiotis Fyssas [Greece] - Single Player Sticker
+371 - Vassilis Torosidis [Greece] - Single Player Sticker
+372 - Alexandros Tziolis [Greece] - Single Player Sticker
+373 - Stelios Giannakopoulos [Greece] - Single Player Sticker
+374 - Angelos Basinas [Greece] - Single Player Sticker
+375 - Konstantinos Katsouranis [Greece] - Single Player Sticker
+376 - Georgios Karagounis [Greece] - Single Player Sticker
+377 - Nikolaos Liberopoulos [Greece] - Single Player Sticker
+378 - Ioannis Amanatidis [Greece] - Single Player Sticker
+379 - Dimitrios Salpingidis [Greece] - Single Player Sticker
+380 - Georgios Samaras [Greece] - Single Player Sticker
+381 - Theofanis Gekas [Greece] - Single Player Sticker
+382 - Angelos Charisteas [Greece] - Single Player Sticker
+383 - Konstantinos Chalkias [Greece] - Single Player Sticker
+384 - Sweden - Sticker - Official Mascots
+385 - Sweden - Team Sticker (puzzle)
+386 - Sweden - Team Sticker (puzzle)
+387 - Sweden - Team Sticker (puzzle)
+388 - Sweden - Team Sticker (puzzle)
+389 - Sweden - Glitter - Badge
+390 - Andreas Isaksson [Sweden] - Single Player Sticker
+391 - Olof Mellberg [Sweden] - Single Player Sticker
+392 - Matias Concha [Sweden] - Single Player Sticker
+393 - Erik Edman [Sweden] - Single Player Sticker
+394 - Daniel Majstorovic [Sweden] - Single Player Sticker
+395 - Petter Hansson [Sweden] - Single Player Sticker
+396 - Mikael Nilsson [Sweden] - Single Player Sticker
+397 - Niclas Alexandersson [Sweden] - Single Player Sticker
+398 - Daniel Andersson [Sweden] - Single Player Sticker
+399 - Tobias Linderoth [Sweden] - Single Player Sticker
+400 - Christian Wilhelmsson [Sweden] - Single Player Sticker
+401 - Anders Svensson [Sweden] - Single Player Sticker
+402 - Kim Källström [Sweden] - Single Player Sticker
+403 - Fredrik Ljungberg [Sweden] - Single Player Sticker
+404 - Kennedy Bakircioglü [Sweden] - Single Player Sticker
+405 - Johan Elmander [Sweden] - Single Player Sticker
+406 - Zlatan Ibrahimovic [Sweden] - Single Player Sticker
+407 - Marcus Allbäck [Sweden] - Single Player Sticker
+408 - Markus Rosenberg [Sweden] - Single Player Sticker
+409 - Rami Shaaban [Sweden] - Single Player Sticker
+410 - Spain - Sticker - Official Mascots
+411 - Spain - Team Sticker (puzzle)
+412 - Spain - Team Sticker (puzzle)
+413 - Spain - Team Sticker (puzzle)
+414 - Spain - Team Sticker (puzzle)
+415 - Spain - Glitter - Badge
+416 - Iker Casillas [Spain] - Single Player Sticker
+417 - Carles Puyol [Spain] - Single Player Sticker
+418 - Pablo Ibañez [Spain] - Single Player Sticker
+419 - Carlos Marchena [Spain] - Single Player Sticker
+420 - Sergio Ramos [Spain] - Single Player Sticker
+421 - Joan Capdevila [Spain] - Single Player Sticker
+422 - Mariano Pernia [Spain] - Single Player Sticker
+423 - David Albelda [Spain] - Single Player Sticker
+424 - Xavi Hernandez [Spain] - Single Player Sticker
+425 - Marcos Senna [Spain] - Single Player Sticker
+426 - Xabi Alonso [Spain] - Single Player Sticker
+427 - Francesc Fabregas [Spain] - Single Player Sticker
+428 - Andres Iniesta [Spain] - Single Player Sticker
+429 - Joaquin Sanchez [Spain] - Single Player Sticker
+430 - David Silva [Spain] - Single Player Sticker
+431 - Albert Riera [Spain] - Single Player Sticker
+432 - Raul Tamudo [Spain] - Single Player Sticker
+433 - David Villa [Spain] - Single Player Sticker
+434 - Fernando Torres [Spain] - Single Player Sticker
+435 - Jose Reina [Spain] - Single Player Sticker
+436 - Russia - Sticker - Official Mascots
+437 - Russia - Team Sticker (puzzle)
+438 - Russia - Team Sticker (puzzle)
+439 - Russia - Team Sticker (puzzle)
+440 - Russia - Team Sticker (puzzle)
+441 - Russia - Glitter - Badge
+442 - Igor  Akinfeev [Russia] - Single Player Sticker
+443 - Sergei  Ignashevich [Russia] - Single Player Sticker
+444 - Aleksei  Berezutski [Russia] - Single Player Sticker
+445 - Aleksandr  Anyukov [Russia] - Single Player Sticker
+446 - Vasili Berezutski [Russia] - Single Player Sticker
+447 - Denis  Kolodin [Russia] - Single Player Sticker
+448 - Marat  Izmailov [Russia] - Single Player Sticker
+449 - Igor  Semshov [Russia] - Single Player Sticker
+450 - Vladimir  Bystrov [Russia] - Single Player Sticker
+451 - Evgeni  Aldonin [Russia] - Single Player Sticker
+452 - Konstantin  Zyrianov [Russia] - Single Player Sticker
+453 - Dmitri  Torbinskiy [Russia] - Single Player Sticker
+454 - Diniyar  Bilyaletdinov [Russia] - Single Player Sticker
+455 - Yuri  Zhirkov [Russia] - Single Player Sticker
+456 - Andrei  Arshavin [Russia] - Single Player Sticker
+457 - Roman  Pavlyuchenko [Russia] - Single Player Sticker
+458 - Aleksandr  Kerzhakov [Russia] - Single Player Sticker
+459 - Pavel  Pogrebnyak [Russia] - Single Player Sticker
+460 - Dmitri  Sychev [Russia] - Single Player Sticker
+461 - Vyacheslav  Malafeev [Russia] - Single Player Sticker
+462 - Gianluigi Buffon [Italy] - Sticker - In action
+463 - Artur Boruc [Poland] - Sticker - In action
+464 - Petr Cech [Czech Rep.] - Sticker - In action
+465 - Iker Casillas [Spain] - Sticker - In action
+466 - Edwin Van Der Sar [Holland] - Sticker - In action
+467 - Jens Lehmann [Germany] - Sticker - In action
+468 - Lilian Thuram [France] - Sticker - In action
+469 - Ricardo  Carvalho [Portugal] - Sticker - In action
+470 - Philippe Senderos [Switzerland] - Sticker - In action
+471 - Fabio Cannavaro [Italy] - Sticker - In action
+472 - Per Mertesacker [Germany] - Sticker - In action
+473 - Martin Stranzl [Austria] - Sticker - In action
+474 - Dario Simic [Croatia] - Sticker - In action
+475 - Traianos Dellas [Greece] - Sticker - In action
+476 - Carles Puyol [Spain] - Sticker - In action
+477 - Olof Mellberg [Sweden] - Sticker - In action
+478 - Sergei  Ignashevich [Russia] - Sticker - In action
+479 - Cristian Chivu [Romania] - Sticker - In action
+480 - Philipp Lahm [Germany] - Sticker - In action
+481 -  Simão [Portugal] - Sticker - In action
+482 - Niko Kranjcar [Croatia] - Sticker - In action
+483 - Georgios Karagounis [Greece] - Sticker - In action
+484 - Emre Belözoglu [Turkey] - Sticker - In action
+485 - Gökhan Inler [Switzerland] - Sticker - In action
+486 - Rene Aufhauser [Austria] - Sticker - In action
+487 - Euzebiusz Smolarek [Poland] - Sticker - In action
+488 - Bernd Schneider [Germany] - Sticker - In action
+489 - Gennaro Gattuso [Italy] - Sticker - In action
+490 - Florent Malouda [France] - Sticker - In action
+491 - Tranquillo Barnetta [Switzerland] - Sticker - In action
+492 -  Deco [Portugal] - Sticker - In action
+493 - Hamit Altintop [Turkey] - Sticker - In action
+494 - Michael Ballack [Germany] - Sticker - In action
+495 - Andreas Ivanschitz [Austria] - Sticker - In action
+496 - Patrick Vieira [France] - Sticker - In action
+497 - Fredrik Ljungberg [Sweden] - Sticker - In action
+498 - Clarence Seedorf [Holland] - Sticker - In action
+499 - Bastian Schweinsteiger [Germany] - Sticker - In action
+500 - Tomas Rosicky [Czech Rep.] - Sticker - In action
+501 - Andrea Pirlo [Italy] - Sticker - In action
+502 - Franck Ribery [France] - Sticker - In action
+503 - Andrei  Arshavin [Russia] - Sticker - In action
+504 - Francesc Fabregas [Spain] - Sticker - In action
+505 - Ciprian Marica [Romania] - Sticker - In action
+506 - Lukas Podolski [Germany] - Sticker - In action
+507 - David Villa [Spain] - Sticker - In action
+508 - Theofanis Gekas [Greece] - Sticker - In action
+509 - Cristiano  Ronaldo [Portugal] - Sticker - In action
+510 - Aleksandr  Kerzhakov [Russia] - Sticker - In action
+511 - Adrian Mutu [Romania] - Sticker - In action
+512 - Alexander Frei [Switzerland] - Sticker - In action
+513 - Jan Koller [Czech Rep.] - Sticker - In action
+514 - Mario Gomez [Germany] - Sticker - In action
+515 - Thierry Henry [France] - Sticker - In action
+516 - Fernando Torres [Spain] - Sticker - In action
+517 - Nihat Kahveci [Turkey] - Sticker - In action
+518 - Angelos Charisteas [Greece] - Sticker - In action
+519 - Miroslav Klose [Germany] - Sticker - In action
+520 - Ruud Van Nistelrooy [Holland] - Sticker - In action
+521 - Zlatan Ibrahimovic [Sweden] - Sticker - In action
+522 - Luca Toni [Italy] - Sticker - In action
+523 - Mladen Petric [Croatia] - Sticker - In action
+524 - 1960 SSSR - Glitter - Uefa European Championship History
+525 - 1964 ESPAÑA - Glitter - Uefa European Championship History
+526 - 1968 ITALIA - Glitter - Uefa European Championship History
+527 - 1972 DEUTSCHLAND-BRD - Glitter - Uefa European Championship History
+528 - 1976 CESKOSLOVENSKO - Glitter - Uefa European Championship History
+529 - 1980 DEUTSCHLAND-BRD - Glitter - Uefa European Championship History
+530 - 1984 FRANCE - Glitter - Uefa European Championship History
+531 - 1988 NEDERLAND - Glitter - Uefa European Championship History
+532 - 1992 DANMARK - Glitter - Uefa European Championship History
+533 - 1996 DEUTSCHLAND - Glitter - Uefa European Championship History
+534 - 2000 FRANCE - Glitter - Uefa European Championship History
+535 - 2004 HELLAS - Glitter - Uefa European Championship History
