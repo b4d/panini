@@ -6,7 +6,7 @@ import string, ftplib, sha
 from getpass import getpass
 
 #variables FTP (address, username, (hashed) pass, working dir)
-synclogin = ('86.61.67.170', 'b4d', 'f8ef1f4ba1751b5d8dccb87bcc633bffff77e820', 'public_html/code/python/wc2006/')
+synclogin = ('86.61.67.170', 'b4d', 'ffffffffffffffffffff', 'public_html/code/python/wc2006/')
 
 ##creating hash pwds
 #import sha
